@@ -83,7 +83,7 @@ namespace CTM.WFServices.Email
 //    replacements.Add("<%TaskUrl%>", $"http://Mysystem/CTM/Tasks/{taskId}");
 //    //-------------------
 //    _messageService.SendEmail("My Message Body", replacements, "New Task", "info@mysystem.com", "My System", "naadydev@gmail.com", "", "");
-//    _messageService.SendEmailUsingHTMLFileTemplate(templatePath, replacements, "New Task", "info@mas.gov.sa", "MAS CTM System", "naadydev@gmail.com", "", "");
+//    _messageService.SendEmailUsingHTMLFileTemplate(templatePath, replacements, "New Task", "info@mysystem.com", "My System", "naadydev@gmail.com", "", "");
 
 //    return "ok";
 //}
