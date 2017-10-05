@@ -4,4 +4,4 @@
 From .NET Core V2.0 you can use your old famous friend "SmtpClient", However this example will Show you:
 How to send an email using HTML physical file system as a template.
 
-#naadydev@gmail.com
+naadydev@gmail.com
